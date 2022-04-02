@@ -1,0 +1,6 @@
+name: SinglePlayerSleep
+version: '${project.version}'
+main: com.seailz.singleplayersleep.SinglePlayerSleep
+authors: [ Seailz ]
+description: Single player sleep plugin
+website: www.seailz.com
